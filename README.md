@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Kipkorir cornelius](https://github.com/daydroidmuchiri)
+- [Kipsr](https://github.com/kipsr)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
